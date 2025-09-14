@@ -36,7 +36,7 @@ export default function Header() {
               <img
                 src="favicon.ico"
                 alt="logo"
-                className="w-20 h-16 md:w-15 md:h-15 lg:w-24 lg:h-20"
+                className="w-15 h-10 md:w-20 md:h-15"
               />
             </a>
             <NavigationMenuItem>
@@ -84,7 +84,7 @@ export default function Header() {
         <div>
           <a
             href="/login"
-            className="bg-[#FF7A1A] text-white px-4 py-2 rounded-lg hover:bg-primary/90 transition"
+            className="bg-[#FF7A1A] text-white px-1 py-1 rounded-lg hover:bg-primary/90 transition sm:px-4 sm:py-2"
           >
             Entrar
           </a>
