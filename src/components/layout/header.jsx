@@ -84,7 +84,7 @@ export default function Header() {
         <div>
           <a
             href="/login"
-            className="bg-[#FF7A1A] text-white px-1 py-1 rounded-lg hover:bg-primary/90 transition sm:px-4 sm:py-2"
+            className="bg-[#FF7A1A] text-white px-1 py-1 rounded-lg hover:bg-[#123C60] transition sm:px-4 sm:py-2"
           >
             Entrar
           </a>
