@@ -1,7 +1,6 @@
-import Footer05Page from "../footer-05/footer-05"
-
+import Footer04Page from "../footer-04/footer-04"
 export default function Footer() {
     return (
-                <Footer05Page />
+        <Footer04Page />
     )
 }
