@@ -22,12 +22,12 @@ const Contact01Page = () => (
           </div>
           <h3 className="mt-6 font-semibold text-xl">Email</h3>
           <p className="mt-2 text-muted-foreground">
-            Our friendly team is here to help.
+            Estamos aqui para ajudar
           </p>
           <Link
             className="mt-4 font-medium text-primary"
-            href="mailto:akashmoradiya3444@gmail.com">
-            akashmoradiya3444@gmail.com
+            href="mailto:zenith@email.com">
+            zenith@email.com
           </Link>
         </div>
         <div className="text-center flex flex-col items-center">
@@ -35,15 +35,15 @@ const Contact01Page = () => (
             className="h-12 w-12 flex items-center justify-center bg-primary/5 dark:bg-primary/10 text-primary rounded-full">
             <MapPinIcon />
           </div>
-          <h3 className="mt-6 font-semibold text-xl">Office</h3>
+          <h3 className="mt-6 font-semibold text-xl">Agência</h3>
           <p className="mt-2 text-muted-foreground">
-            Come say hello at our office HQ.
+            Venha nos fazer uma visita
           </p>
           <Link
             className="mt-4 font-medium text-primary"
-            href="https://map.google.com"
+            href="https://www.google.com/maps/@32.62814,129.7380294,2a,89y,12.53h,76.68t/data=!3m8!1e1!3m5!1sMrdUtmuGxFIAAAQIt4-Z5Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D13.319999999999993%26panoid%3DMrdUtmuGxFIAAAQIt4-Z5Q%26yaw%3D12.53!7i13312!8i6656!4b1?authuser=0&entry=ttu&g_ep=EgoyMDI1MDkyMy4wIKXMDSoASAFQAw%3D%3D"
             target="_blank">
-            100 Smith Street Collingwood <br /> VIC 3066 AU
+            Rua das Ruínas <br /> MUR 2804 MIAU
           </Link>
         </div>
         <div className="text-center flex flex-col items-center">
@@ -51,12 +51,12 @@ const Contact01Page = () => (
             className="h-12 w-12 flex items-center justify-center bg-primary/5 dark:bg-primary/10 text-primary rounded-full">
             <PhoneIcon />
           </div>
-          <h3 className="mt-6 font-semibold text-xl">Phone</h3>
-          <p className="mt-2 text-muted-foreground">Mon-Fri from 8am to 5pm.</p>
+          <h3 className="mt-6 font-semibold text-xl">Telefone</h3>
+          <p className="mt-2 text-muted-foreground">Seg-Sex das 09:00 até às 18:00</p>
           <Link
             className="mt-4 font-medium text-primary"
-            href="tel:akashmoradiya3444@gmail.com">
-            +1 (555) 000-0000
+            href="tel:zenith@email.com">
+            +55 4002-8922
           </Link>
         </div>
       </div>
